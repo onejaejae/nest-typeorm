@@ -1,0 +1,36 @@
+# TypeORM In The Nest
+
+## Config .env
+
+```.env
+# app
+NODE_ENV=development
+PORT=5000
+ADMIN_USER=...
+ADMIN_PASSWORD=...
+SECRET_KEY=...
+DB_USERNAME=...
+DB_PASSWORD=...
+DB_HOST=localhost
+DB_PORT=5433
+DB_NAME=...
+
+# db
+POSTGRES_DB=...
+POSTGRES_USER=...
+POSTGRES_PASSWORD=...
+
+# db admin
+PGADMIN_DEFAULT_EMAIL=...
+PGADMIN_DEFAULT_PASSWORD=...
+```
+
+<br>
+
+### Nest + Type ORM
+
+---
+
+<BR>
+
+https://medium.com/crocusenergy/nestjs-typeorm-%EA%B8%B0%EB%B3%B8-crud-%EC%9E%91%EC%84%B1%ED%95%98%EA%B8%B0-69b9640dc826
